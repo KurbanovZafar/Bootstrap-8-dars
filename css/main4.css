@@ -1,0 +1,11 @@
+.a{
+    color: white;
+    width: 150px;
+    height: 140px;
+    font-size: 100px;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-left: 925px;
+    margin-top: -250px;
+    background: linear-gradient(90deg, #530053, #fd02fd);
+}
